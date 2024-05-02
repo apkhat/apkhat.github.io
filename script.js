@@ -1,4 +1,4 @@
-// JavaScript para expandir e contrair as respostas das perguntas frequentes
+
 const questions = document.querySelectorAll('.question');
 
 questions.forEach(question => {
